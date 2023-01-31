@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d844b8f-b819-47ea-9dba-77cc22d7b482" name="Changes" comment=".">
-      <change beforePath="$PROJECT_DIR$/src/cocreate/ISuvStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cocreate/RentStrategy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cocreate/SuvStrategyImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cocreate/SuvStrategyImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concreate/HatchbackStrategyImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concreate/SuvStrategyImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concreate/SuvStrategyImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675180025548</updated>
-      <workItem from="1675180279141" duration="5240000" />
+      <workItem from="1675180279141" duration="5603000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1675180387482</created>
@@ -117,7 +117,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675188113662</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary=".">
+      <created>1675188676273</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675188676273</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
