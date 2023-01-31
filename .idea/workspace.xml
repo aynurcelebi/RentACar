@@ -44,8 +44,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="cocreate.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cocreate.Main" />
       <module name="RentACar" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -53,7 +53,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.cocreate.Main" />
       </list>
     </recent_temporary>
   </component>
