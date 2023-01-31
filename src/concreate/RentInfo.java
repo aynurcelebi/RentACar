@@ -10,6 +10,12 @@ public class RentInfo
 
     private double totalPrice;
 
+    public RentInfo(RentType rentType, double dailyRentPrice, double monthlyRentPrice) {
+        this.rentType = rentType;
+        this.dailyRentPrice = dailyRentPrice;
+        this.monthlyRentPrice = monthlyRentPrice;
+    }
+
     public double getTotalPrice() {
         return totalPrice;
     }

@@ -14,9 +14,9 @@ public class SuvStrategyImpl implements IRentStrategy {
         else {
            if (RentType.MONTHLY.equals(car.getRentInfo().getRentType())){
 
-               RentInfo rentInfo  = new RentInfo();
-               double mounthlyPrice = suvMounthlyParam * car.getRentInfo().getMonthlyRentPrice();
-               rentInfo.setTotalPrice(mounthlyPrice);
+//               RentInfo rentInfo  = new RentInfo();
+//               double mounthlyPrice = suvMounthlyParam * car.getRentInfo().getMonthlyRentPrice();
+//               rentInfo.setTotalPrice(mounthlyPrice);
            }
         }
         System.out.println("SUV Kiralama");

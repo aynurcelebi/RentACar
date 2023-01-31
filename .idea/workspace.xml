@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d844b8f-b819-47ea-9dba-77cc22d7b482" name="Changes" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/concreate/RentACarAPP.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/concreate/strategy/SuvStrategyImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concreate/strategy/SuvStrategyImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/concreate/RentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/concreate/RentInfo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +45,20 @@
     "last_opened_file_path": "C:/Users/Aynur/Desktop/HastaneOtomasyonSistemi"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.RentACarAPP">
+    <configuration name="RentACarAPP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="concreate.RentACarAPP" />
+      <module name="RentACar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="concreate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="concreate.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="concreate.Main" />
       <module name="RentACar" />
@@ -54,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RentACarAPP" />
         <item itemvalue="Application.concreate.Main" />
       </list>
     </recent_temporary>
@@ -66,7 +81,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675180025548</updated>
-      <workItem from="1675180279141" duration="12100000" />
+      <workItem from="1675180279141" duration="12764000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1675180387482</created>
@@ -138,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675193819899</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=".">
+      <created>1675200923578</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675200923578</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
