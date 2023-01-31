@@ -1,4 +1,7 @@
-package concreate;
+package concreate.strategy;
+
+import concreate.Car;
+import concreate.Customer;
 
 public class SuvStrategyImpl implements IRentStrategy {
     @Override
