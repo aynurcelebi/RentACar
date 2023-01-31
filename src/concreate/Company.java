@@ -1,4 +1,4 @@
-package cocreate;
+package concreate;
 
 public class Company extends Customer{
 

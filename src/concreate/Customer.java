@@ -1,4 +1,4 @@
-package cocreate;
+package concreate;
 
 public class Customer {
     private int id;

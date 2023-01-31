@@ -1,10 +1,9 @@
-package cocreate;
+package concreate;
 
-public class RentCarImpl implements IRentCar{
-
-
+public class SuvStrategyImpl implements IRentStrategy {
     @Override
     public void rentACar(Car car, Customer customer) {
 
     }
+
 }
